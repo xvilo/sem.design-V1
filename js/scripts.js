@@ -1,4 +1,3 @@
- 
 $(function(){
 			    
 			    $("[data-bg-speed]").each(function() {
